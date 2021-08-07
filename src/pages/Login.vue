@@ -1,6 +1,6 @@
 <template>
   <div>
-    <label>用户名11111 :<input type="text" v-model="username"/></label>
+    <label>用户名234234 :<input type="text" v-model="username"/></label>
     <label>密码:<input type="text" v-model="password"/></label>
     <button @click="login">登录</button>
   </div>
