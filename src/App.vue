@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <router-link to="/login">Login</router-link>
+    <router-link to="/login">Login123</router-link>
     <router-link to="/hello">hello</router-link>
     <router-link to="/home">home</router-link>
     <router-link to="/Message">Message</router-link>
